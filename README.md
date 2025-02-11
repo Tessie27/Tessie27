@@ -23,3 +23,8 @@ Let's chat about tech, career growth, or cool projects!
 - 🌍 [LinkedIn](#) https://www.linkedin.com/in/letezz-khan-722397159/ 
 - ✉️ [Email](mailto:96ltkhan@gmail.com)  
  
+### 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tessie27&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tessie27&show_icons=true&theme=radical)
+
