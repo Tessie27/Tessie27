@@ -1,6 +1,7 @@
 # 💫 About Me:
 I build automation solutions with Python and Next.js to make enterprise systems smarter and more efficient. When I'm not streamlining workflows in ManageEngine, I'm learning how to build the next great web app.<br><br>Fun Fact: My hearing aids stream calls and Spotify straight to my ears. I'm passionate about technology that empowers and includes everyone.
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Tessie27.Tessie27)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/letezz-khan-722397159/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:letezzkhan@gmail.com) 
