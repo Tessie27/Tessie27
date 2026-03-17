@@ -25,6 +25,7 @@ I build automation solutions with Python and Next.js to make enterprise systems 
 | [Live Caption Saver](https://github.com/Tessie27/Live-Caption-Saver) | Real-time Windows caption capture with OCR & smart text filtering | Python, Tesseract, tkinter | ![Tests](https://github.com/Tessie27/Live-Caption-Saver/actions/workflows/tests.yml/badge.svg) |
 | [Password Generator](https://github.com/Tessie27/PasswordGenerator) | Secure password tool with strength meter & entropy analysis | Python, PyQt5 | ![Tests](https://github.com/Tessie27/PasswordGenerator/actions/workflows/tests.yml/badge.svg) |
 | [Kill All App](https://github.com/Tessie27/Kill_All_App) | Windows process manager with safe system filtering | Python, PyQt5 | ![Tests](https://github.com/Tessie27/Kill_All_App/actions/workflows/tests.yml/badge.svg) |
+| [Network Diagnostics](https://github.com/Tessie27/network_diagnostics) | Windows process manager with safe system filtering | Python, PyQt5 | ![Tests](https://github.com/Tessie27/network_diagnostics/actions/workflows/ci.yml/badge.svg) |
 
 ---
 
