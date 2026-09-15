@@ -22,10 +22,11 @@ I build automation solutions with Python and Next.js to make enterprise systems 
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
+| [SAPS Crime Dashboard](https://github.com/Tessie27/saps-dashboard) | Interactive dashboard for South African Police Service crime statistics — 10-year trends, a provincial hotspot map, and a station leaderboard | HTML, CSS, JavaScript | [![Live](https://img.shields.io/badge/status-live-brightgreen)](https://tessie27.github.io/saps-dashboard/) |
 | [Live Caption Saver](https://github.com/Tessie27/Live-Caption-Saver) | Real-time Windows caption capture with OCR & smart text filtering | Python, Tesseract, tkinter | ![Tests](https://github.com/Tessie27/Live-Caption-Saver/actions/workflows/tests.yml/badge.svg) |
 | [Password Generator](https://github.com/Tessie27/PasswordGenerator) | Secure password tool with strength meter & entropy analysis | Python, PyQt5 | ![Tests](https://github.com/Tessie27/PasswordGenerator/actions/workflows/tests.yml/badge.svg) |
 | [Kill All App](https://github.com/Tessie27/Kill_All_App) | Windows process manager with safe system filtering | Python, PyQt5 | ![Tests](https://github.com/Tessie27/Kill_All_App/actions/workflows/tests.yml/badge.svg) |
-| [Network Diagnostics](https://github.com/Tessie27/network_diagnostics) | Windows process manager with safe system filtering | Python, PyQt5 | ![Tests](https://github.com/Tessie27/network_diagnostics/actions/workflows/test.yml/badge.svg) |
+| [Network Diagnostics](https://github.com/Tessie27/network_diagnostics) | Windows network troubleshooting utility — ping, traceroute, DNS lookup, port checks & common fixes | Python, tkinter | ![Tests](https://github.com/Tessie27/network_diagnostics/actions/workflows/test.yml/badge.svg) |
 
 ---
 
